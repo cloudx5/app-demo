@@ -1,1 +1,1 @@
-# app-demo
+# 演示openshift的s2i过程 
