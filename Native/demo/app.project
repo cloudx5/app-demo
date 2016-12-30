@@ -12,7 +12,7 @@
 	"genIOSDis":false,
 	"hash":"version",
 	"homePage":"http://www.justep.com",
-	"indexURL":"/main/index.w",
+	"indexURL":"/demo/index.w",
 	"iosDevloperPassword":"123456",
 	"mode":"1",
 	"paasType":"0",
@@ -22,6 +22,6 @@
 	"resEncryption":false,
 	"serverURL":"http://appdemo-app.onx5.net",
 	"sourceMode":false,
-	"uiResDirs":"main,system/admin",
+	"uiResDirs":"demo,system/admin",
 	"webPath":""
 }
